@@ -1,0 +1,34 @@
+.auth {
+  max-width: 500px;
+  margin: auto;
+  padding: 2rem;
+  box-shadow: 5px 5px 10px 0 rgb(0 0 0 / 40%);
+}
+
+.auth label {
+  display: block;
+  margin-bottom: 0.65rem;
+}
+
+.auth input[type='text'],
+.auth input[type='email'],
+.auth input[type='password'] {
+  display: block;
+  width: 100%;
+  height: 2.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.auth input[type='submit'] {
+  display: block;
+  width: auto;
+  height: auto;
+  margin: 2rem auto;
+  font-family: 'Poppins', sans-serif;
+  border: none;
+}
+
+.auth div {
+  margin-bottom: 1.5rem;
+}

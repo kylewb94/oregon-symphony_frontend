@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Not Our First Goat Rodeo",
+      "slug": "not-our-first-goat-rodeo",
+      "date": "Wed, Aug 18, 2021",
+      "time": "6:30 PM",
+      "venue": "McMenamins Edgefield Amphiteater",
+      "address": "2126 SW Halsey St, Troutdale, OR 97060",
+      "program": "",
+      "artists": "Yo-Yo Ma\nStuart Duncan\nEdgar Meyer\nChris Thile",
+      "description": "With featured vocalist Aoife O’Donovan\nAn astounding group of virtuosos – Yo-Yo Ma on cello, Stuart Duncan on fiddle, Edgar Meyer on bass, and Chris Thile on mandolin – reunite live for the first time in nearly a decade. Joined by featured vocalist Aoife O’Donovan, the lively talents of these exceptional artists come together on stage to create a singular sound that’s part composed, part improvised, and uniquely American – music so complex to pull off that the group likens it to a goat rodeo, airplane pilots’ nickname for a situation in which many different things need to go right to avoid disaster. In the words of the Los Angeles Times, this concert presents \"unlikely musicians on unlikely instruments in concerts ... that [are] part blues, part bluegrass and a smidgen of Bach.\"",
+      "metaDescription": "Find your tickets to see the incomparable Goat Rodeo live at Edgefield Concerts.",
+      "image": "/images/rodeo.jpg"
+    },
+    {
+      "id": "2",
+      "name": "The Season Premiere: David Danzmayr Conducts Mahler’s Second Symphony",
+      "slug": "mahlers-second-symphony",
+      "date": "Sat, Oct 2, 2021\nSun, Oct 3, 2021\nMon, Oct 4, 2021",
+      "time": "7:30 PM\n2:00 PM\n7:30 PM",
+      "venue": "Arlene Schnitzer Concert Hall",
+      "address": "1037 SW Broadway, Portland, OR 97205",
+      "program": "Kenji Bunch: Fanfare (World premiere commission)\nGabriela Lena Frank: Elegía Andina\nMahler: Symphony No. 2, \"Resurrection\"",
+      "artists": "David Danzmayr, Conductor\nOregon Repertory Singers and The Portland State Chamber Choir\nSusanna Phillips, Soprano\nSasha Cooke, Mezzo-Soprano",
+      "description": "New Music Director David Danzmayr opens the season with an exhilarating Oregon Symphony celebration. This season’s central theme – how a composer’s cultural background shapes their music – comes to life in Gabriela Lena Frank’s Peru-inspired Elegía Andina and Mahler’s unforgettable \"Resurrection\" Symphony.",
+      "metaDescription": "",
+      "image": "/images/mahler.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Musical Legends of the Harlem Renaissance",
+      "slug": "musical-legends-of-the-harlem-renaissance",
+      "date": "Sat, Oct 9, 2021\nSun, Oct 10, 2021",
+      "time": "7:30 PM\n2:00 PM",
+      "venue": "Arlene Schnitzer Concert Hall",
+      "address": "1037 SW Broadway, Portland, OR 97205",
+      "program": "",
+      "artists": "Jeff Tyzik, Conductor\nByron Stripling, Trumpet & Vocals\nOregon Symphony",
+      "description": "Celebrate 100 years of the Harlem Renaissance with trumpeter/vocalist Byron Stripling and a night of symphonic jazz, featuring music by Duke Ellington, Billie Holiday, and Louis Armstrong.",
+      "metaDescription": "",
+      "image": "/images/harlem.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Tchaikovsky’s Piano Concerto No. 1",
+      "slug": "tchaikovskys-piano-concerto-no-1",
+      "date": "Sat, Oct 16, 2021\nSun, Oct 17, 2021\nMon, Oct 18, 2021",
+      "time": "7:30 PM\n2:00 PM\n7:30 PM",
+      "venue": "Arlene Schnitzer Concert Hall",
+      "address": "1037 SW Broadway, Portland, OR 97205",
+      "program": "Walker: Lyric for Strings\nTchaikovsky: Piano Concerto No. 1\nSibelius: Symphony No. 3",
+      "artists": "David Zinman, Conductor\nSimon Trpčeski, Piano",
+      "description": "Simon Trpčeski makes his Oregon Symphony debut performing Tchaikovsky’s passionate Piano Concerto No. 1. Also on the program is Jean Sibelius’ rarely performed Symphony No. 3, which resounds with the Nordic spirit of his native Finland.",
+      "metaDescription": "",
+      "image": "/images/tchaikovsky.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Disney Tim Burton’s The Nightmare Before Christmas",
+      "slug": "the-nightmare-before-christmas",
+      "date": "Sat, Oct 23, 2021\nSun, Oct 24, 2021",
+      "time": "7:30 PM\n2:00 PM",
+      "venue": "Arlene Schnitzer Concert Hall",
+      "address": "1037 SW Broadway, Portland, OR 97205",
+      "program": "",
+      "artists": "Norman Huynh, Conductor\nOregon Symphony",
+      "description": "Tim Burton’s fantastical tale of the Pumpkin King, Oogie Boogie, and Sandy Claws comes to life on our big screen, complete with Danny Elfman’s film score performed live to picture. Costumes encouraged, it’s the perfect outing to celebrate Halloween.",
+      "metaDescription": "",
+      "image": "/images/elfman.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Haydn & Strauss: Austrian Music through the Ages",
+      "slug": "austrian-music-through-the-ages",
+      "date": "Fri, Oct 29, 2021",
+      "time": "7:30 PM",
+      "venue": "Smith Auditorium, Willamette University",
+      "address": "270 Winter St SE, Salem, OR 97301",
+      "program": "J.S. Bach: Concerto for Oboe and Violin\nHaydn: Symphony No. 94, \"Surprise\"\nHK Gruber: Frankenstein!!\nJ. Strauss II: Emperor Waltz",
+      "artists": "David Danzmayr, Conductor\nHK Gruber, Chansonnier\nMartin Hébert, Oboe\nSarah Kwak, Violin",
+      "description": "From the land of the Blue Danube comes a program of Austrian favorites. Haydn’s \"Surprise\" Symphony is among the great Classical Era symphonies, while Johann Strauss II radiates 19th-century charm. And, just in time for Halloween, living composer HK Gruber will lead the festivities in his amusing Frankenstein!!",
+      "metaDescription": "",
+      "image": "/images/austrian.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Haydn & Strauss: Austrian Music through the Ages",
+      "slug": "austrian-music-through-the-ages",
+      "date": "Sat, Oct 30, 2021\nSun, Oct 31, 2021\nMon, Nov 1, 2021",
+      "time": "7:30 PM\n2:00 PM\n7:30 PM",
+      "venue": "Arlene Schnitzer Concert Hall",
+      "address": "1037 SW Broadway, Portland, OR 97205",
+      "program": "J.S. Bach: Concerto for Oboe and Violin\nHaydn: Symphony No. 94, \"Surprise\"\nHK Gruber: Frankenstein!!\nJ. Strauss II: Emperor Waltz",
+      "artists": "David Danzmayr, Conductor\nHK Gruber, Chansonnier\nMartin Hébert, Oboe\nSarah Kwak, Violin",
+      "description": "From the land of the Blue Danube comes a program of Austrian favorites. Haydn’s \"Surprise\" Symphony is among the great Classical Era symphonies, while Johann Strauss II radiates 19th-century charm. And, just in time for Halloween, living composer HK Gruber will lead the festivities in his amusing Frankenstein!!",
+      "metaDescription": "",
+      "image": "/images/austrian.jpg"
+    }
+  ]
+}

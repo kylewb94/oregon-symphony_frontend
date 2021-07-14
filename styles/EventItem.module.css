@@ -1,0 +1,43 @@
+.event {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem 0;
+  padding: 1rem 2rem;
+  background-color: #fefefe;
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.img {
+  flex: 1;
+  margin: 1rem;
+}
+.info {
+  flex: 2;
+  padding: 0;
+}
+.info h3 a {
+  font-weight: 700;
+  text-decoration: none;
+}
+.link li {
+  list-style-type: none;
+}
+.link li a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+/* Tablet Styles */
+@media (min-width: 600px) {
+  .event {
+    flex-direction: row;
+    text-align: left;
+  }
+  .info {
+    margin-bottom: 2rem;
+    padding: 0 2rem;
+  }
+}

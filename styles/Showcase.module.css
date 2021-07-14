@@ -1,0 +1,44 @@
+.showcase {
+  display: none;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 50vh;
+  background: url(https://res.cloudinary.com/kylewb94/image/upload/v1625498684/event-default_aej2zk.jpg) no-repeat center center/cover;
+}
+.showcase video {
+  min-width: 100%;
+  min-height: 100vh;
+  z-index: 1;
+}
+.showcaseOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, .6));
+  background-size: 3px 3px;
+  z-index: 2;
+}
+.showcaseText {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  max-width: 400px;
+  width: 100%;
+  height: 50%;
+  color: #fefdec;
+  text-align: center;
+  z-index: 3;
+}
+
+/* Tablet Styles */
+@media (min-width: 600px) {
+  .showcase {
+    display: block;
+  }
+}
