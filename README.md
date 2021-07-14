@@ -25,4 +25,9 @@ On the *Login* screen, either **register** as a new user or **login** as an exis
 Login with the credentials below to test **admin** functionality.
 
 > john@example.com
+> 
 > 123456
+
+## Backend
+
+Frontend repository located at [oregon-symphony_backend](https://github.com/kylewb94/oregon-symphony_backend).
