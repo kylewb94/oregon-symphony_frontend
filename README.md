@@ -30,4 +30,4 @@ Login with the credentials below to test **admin** functionality.
 
 ## Backend
 
-Frontend repository located at [oregon-symphony_backend](https://github.com/kylewb94/oregon-symphony_backend).
+Backend repository located at [oregon-symphony_backend](https://github.com/kylewb94/oregon-symphony_backend).
