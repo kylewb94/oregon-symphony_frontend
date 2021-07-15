@@ -20,15 +20,15 @@ export default function Footer() {
 						<p><a href="tel:503.228.4294">503-228-4294</a></p>
 					</div>
 					<ul className={styles.footerBlockMenu}>
-						<li><Link href='#'>About Us</Link></li>
-						<li><Link href='#'>Career Opportunities</Link></li>
-						<li><Link href='#'>Volunteer Opportunities</Link></li>
-						<li><Link href='#'>Press Room</Link></li>
-						<li><Link href='#'>Contact Us</Link></li>
+						<li><Link href='/'>About Us</Link></li>
+						<li><Link href='/'>Career Opportunities</Link></li>
+						<li><Link href='/'>Volunteer Opportunities</Link></li>
+						<li><Link href='/'>Press Room</Link></li>
+						<li><Link href='/'>Contact Us</Link></li>
 					</ul>
 					<div className={styles.footerBlockSocial}>
 						<h3>Receive special offers &amp; updates</h3>
-						<Link href='/email-sign-up'>
+						<Link href='/'>
 							<a className='btn btnPrimary'>Email Sign Up</a>
 						</Link>
 						<ul>

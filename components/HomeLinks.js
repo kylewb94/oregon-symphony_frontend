@@ -16,7 +16,7 @@ export default function HomeLinks() {
 				<p>
 					Your one-stop destination for all things digital from the Oregon Symphony. Discover new, never-before-seen performances like Music Director Carlos Kalmar conducting musicians of your Oregon Symphony in our Carlos@18 series.
 				</p>
-				<Link href='#'>
+				<Link href='/'>
 					<a className='btn btnPrimary'>Explore</a>
 				</Link>
 			</div>
@@ -44,7 +44,7 @@ export default function HomeLinks() {
 				<p>
 					The Oregon Symphony is proud to announce that acclaimed Austrian-born conductor David Danzmayr will serve as our next Music Director with the launch of the 2021/22 Season.
 				</p>
-				<Link href='#'>
+				<Link href='/'>
 					<a className='btn btnPrimary'>Learn More</a>
 				</Link>
 			</div>
@@ -61,7 +61,7 @@ export default function HomeLinks() {
 				<p>
 					We need music in our lives, now more than ever. It’s crucial that your Oregon Symphony continues to innovate and evolve, finding new ways to connect our community through incredible music. We ask you to be here for us, so that we can be here for you – as we have been for nearly 125 years.
 				</p>
-				<Link href='#'>
+				<Link href='/'>
 					<a className='btn btnPrimary'>Donate</a>
 				</Link>
 			</div>
